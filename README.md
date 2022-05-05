@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexey</h1>
 <h3 align="center">student of the Big Data faculty of AlmaU</h3>
+<h3 align="left">I will introduce a special telegram channel with my achievements😄</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
