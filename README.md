@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alexey</h1>
 <h3 align="center">student of the Big Data faculty of AlmaU</h3>
 <h3 align="left">I will introduce a special telegram channel with my achievements😄</h3>
+<h3 align="left">https://t.me/+bGKcSnnC2P42NDNi</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://instagram.com/@_krivalex_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_krivalex_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/evil genius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="evil genius" height="30" width="40" /></a>
+<p><b>telegram:</b> <i>@krivalex</i></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
