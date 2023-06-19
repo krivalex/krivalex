@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseikrivoborodov&label=Profile%20views&color=0e75b6&style=flat" alt="alekseikrivoborodov" /> </p>
 
-- 🔭 I created the [Atmosphere](http://atmospherekz.online/)
+- 🔭 I created the [Atmosphere](http://atmosphereit.kz/)
 
 - 🌱 I’m currently use **Vue.js**
 
