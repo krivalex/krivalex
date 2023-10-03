@@ -5,7 +5,7 @@
 
 - 🔭 I created the [Atmosphere](http://atmosphereit.kz/)
 
-- 🌱 I’m currently use **Vue.js**
+- 🌱 I’m currently use **Vue/Typescript**
 
 - 📫 How to reach me **new.krivalex@gmail.com**
 
