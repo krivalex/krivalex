@@ -10,8 +10,8 @@
 
 - 🌱 I’m currently use **Vue/Typescript** - 📫 How to reach me **new.krivalex@gmail.com**
 
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
+    <h3 align="center">Connect with me:</h3>
+    <p align="center">
       <a href="https://instagram.com/_krivalex_" target="blank"
         ><img
           align="center"
@@ -30,8 +30,8 @@
       /></a>
     </p>
 
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
+    <h3 align="center">Languages and Tools:</h3>
+    <p align="center">
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
