@@ -1,3 +1,4 @@
+<div style="background-image: 'https://img.freepik.com/free-vector/navy-blue-geometrical-social-banner-vector_53876-168973.jpg?w=1380&t=st=1707712931~exp=1707713531~hmac=a2def4a6a418a5fe227483b6b4125874e95ce1d1f7f1bdfde9506756ab45cb88'">
 <h1 align="center">Hello, I'm Alexey</h1>
 <h3 align="center">Hyper | Glitch</h3>
 
@@ -155,3 +156,4 @@
         alt="krivalex"
       />
     </p>
+</div>
