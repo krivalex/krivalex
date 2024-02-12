@@ -28,6 +28,14 @@
           height="30"
           width="40"
       /></a>
+     <a href="https://t.me/krivalex" target="blank"
+      ><img
+        align="center"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"
+        alt="krivalex"
+        height="30"
+        width="40"
+      /></a>
     </p>
 
     <h3 align="center">Languages and Tools:</h3>
