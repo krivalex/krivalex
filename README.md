@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Alexey</h1>
-    <h3 align="center">A glitch from Kazakhstan</h3>
+<h3 align="center">A glitch from Kazakhstan</h3>
 
-    <p align="left">
-      <img
-        src="https://komarev.com/ghpvc/?username=alekseikrivoborodov&label=Profile%20views&color=0e75b6&style=flat"
-        alt="alekseikrivoborodov"
-      />
-    </p>
+<p align="left">
+ <img
+    src="https://komarev.com/ghpvc/?username=alekseikrivoborodov&label=Profile%20views&color=0e75b6&style=flat"
+    alt="alekseikrivoborodov"
+    />
+</p>
 
-    - 🌱 I’m currently use **Vue/Typescript** - 📫 How to reach me **new.krivalex@gmail.com**
+- 🌱 I’m currently use **Vue/Typescript** - 📫 How to reach me **new.krivalex@gmail.com**
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
