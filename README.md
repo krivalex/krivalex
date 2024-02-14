@@ -16,19 +16,19 @@
 
    <h3 align="center">Connect with me:</h3>
     <p align="center">
+       <a href="https://www.youtube.com/c/krivalex" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+          alt="krivalex"
+          height="30"
+          width="40"
+      /></a>
       <a href="https://instagram.com/_krivalex_" target="blank"
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
           alt="_krivalex_"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://www.youtube.com/c/krivalex" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-          alt="krivalex"
           height="30"
           width="40"
       /></a>
@@ -40,6 +40,14 @@
         height="30"
         width="30"
       /></a>
+      <a href="mailto:new.krivalex@gmail.com" target="blank"
+       ><img
+          align="center"
+          src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png"
+          alt="krivalex"
+          height="30"
+          width="30"
+       /></a>
     </p>
 
    <h3 align="center">Languages and Tools:</h3>
