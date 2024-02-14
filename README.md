@@ -1,9 +1,5 @@
-   <div class="reveal">
-      <div class="slides">
-        <section data-markdown="slides.md" data-background-image="http://example.com/image.png"></section>
-      </div>
-    </div>
-    
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc1QPFub78NTqzaex3bxqH-8lhaWlzEXinw&usqp=CAU" height="30" width="100%" style="object-fit: cover;" />
+
 <h1 align="center">Hello, I'm Alexey</h1>
 <h3 align="center">Hyper | Glitch</h3>
 
@@ -177,3 +173,5 @@
         alt="krivalex"
       />
     </p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNc1QPFub78NTqzaex3bxqH-8lhaWlzEXinw&usqp=CAU" height="30" width="100%" style="object-fit: cover;" />
