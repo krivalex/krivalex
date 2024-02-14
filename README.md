@@ -22,7 +22,7 @@
            src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
            alt="krivalex"
            height="30"
-           width="40"
+           width="30"
          /></a>
        <a href="https://www.youtube.com/c/krivalex" target="blank"
         ><img
