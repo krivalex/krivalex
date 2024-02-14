@@ -16,6 +16,14 @@
 
    <h3 align="center">Connect with me:</h3>
     <p align="center">
+       <a href="https://hh.kz/resume/66e76a82ff081647f50039ed1f62574e614d38" target=blank
+         ><img
+           align="center"
+           src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
+           alt="krivalex"
+           height="30"
+           width="40"
+         /></a>
        <a href="https://www.youtube.com/c/krivalex" target="blank"
         ><img
           align="center"
